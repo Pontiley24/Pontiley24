@@ -9,5 +9,5 @@
 ![SQL](https://img.shields.io/badge/-SQL-000000?style=for-the-badge&logo=mysql)
 
 ### Folow me
-[![Telegram](https://img.shields.io/badge/-Telegram-000000?style=for-the-badge&logo=Ttelegram)](https://t.me/pontiley24)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000000?style=for-the-badge&logo=linkedIn)](https://www.linkedin.com/in/%D0%B2%D0%BB%D0%B0%D0%B4%D0%B8%D1%81%D0%BB%D0%B0%D0%B2-%D1%81%D0%B8%D0%BD%D0%B8%D1%86%D1%8B%D0%BD-0819191b6/)
+[![Telegram](https://img.shields.io/badge/-Telegram-000000?style=for-the-badge&logo=telegram&logoColor=6098f3)](https://t.me/pontiley24)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000000?style=for-the-badge&logo=linkedIn&logoColor=154efb)](https://www.linkedin.com/in/%D0%B2%D0%BB%D0%B0%D0%B4%D0%B8%D1%81%D0%BB%D0%B0%D0%B2-%D1%81%D0%B8%D0%BD%D0%B8%D1%86%D1%8B%D0%BD-0819191b6/)
