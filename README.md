@@ -3,12 +3,12 @@
 ## I'm a beginner developer)
 
 ## Languages and Tools
-![Python]https://img.shields.io/badge/-Python-4671f2
+![Python](https://img.shields.io/badge/-Python-4671f2
 ?style=for-the-badge&logo=Python)
-![HTML]https://img.shields.io/badge/-HTML-4671f2
+![HTML](https://img.shields.io/badge/-HTML-4671f2
 ?style=for-the-badge&logo=HTML)
-![CSS]https://img.shields.io/badge/-CSS-4671f2
+![CSS](https://img.shields.io/badge/-CSS-4671f2
 ?style=for-the-badge&logo=CSS)
-![SQL]https://img.shields.io/badge/-SQL-4671f2
+![SQL](https://img.shields.io/badge/-SQL-4671f2
 ?style=for-the-badge&logo=SQL)
 Folow me
