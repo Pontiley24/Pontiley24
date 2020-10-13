@@ -2,6 +2,11 @@
 
 ## I'm a beginner developer)
 
-Languages 
-
+## Languages 
+![Python]https://img.shields.io/badge/-Python-4671f2
+?style=for-the-badge&logo=Python)
+![HTML]https://img.shields.io/badge/-HTML-4671f2
+?style=for-the-badge&logo=HTML)
+![SQL]https://img.shields.io/badge/-SQL-4671f2
+?style=for-the-badge&logo=SQL)
 Folow me
