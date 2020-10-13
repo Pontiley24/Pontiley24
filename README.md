@@ -4,8 +4,8 @@
 
 ## Languages and Tools
 ![Python](https://img.shields.io/badge/-Python-000000?style=for-the-badge&logo=Python)
-![HTML](https://img.shields.io/badge/-HTML-000000?style=for-the-badge&logo=Html)
-![CSS](https://img.shields.io/badge/-CSS-000000?style=for-the-badge&logo=Css)
-![SQL](https://img.shields.io/badge/-SQL-000000?style=for-the-badge&logo=Sql)
+![HTML](https://img.shields.io/badge/-Html-000000?style=for-the-badge&logo=html)
+![CSS](https://img.shields.io/badge/-CSS-000000?style=for-the-badge&logo=css)
+![SQL](https://img.shields.io/badge/-SQL-000000?style=for-the-badge&logo=mysql)
 
 Folow me
